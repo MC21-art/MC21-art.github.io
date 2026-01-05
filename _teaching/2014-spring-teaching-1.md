@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Concepts informatiques"
 collection: teaching
-type: "Undergraduate course"
+type: "TD & TP"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University Paris Cité, Computer Science Department"
+date: 2025
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+TD and TP with first year students.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
