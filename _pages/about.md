@@ -14,6 +14,6 @@ Former maths student in University Paris Saclay, I graduated in 2025 with a Mast
 Topics
 ======
 
--Automata theory
--Groups theory
--Dynamic symbolic
+- Automata theory
+- Groups theory
+- Dynamic symbolic
